@@ -80,6 +80,7 @@ public class Exercicio03 {
 	}
 }
 
+
 //Exercício 4
 import javax.swing.JOptionPane;
 
@@ -305,8 +306,3 @@ public class Exercicio11 {
 		JOptionPane.showMessageDialog(null, "A soma de todos os elementos da matriz é " + soma);
 	}
 }
-
-
-
-
-
